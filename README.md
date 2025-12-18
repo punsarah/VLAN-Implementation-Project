@@ -68,8 +68,8 @@ show vlan brief
 write memory
 
 ## Screenshots
-![Topology](screenshots/Topology.png)
-![VLAN Configuration](screenshots/VLAN_Configuration.png)
-![Trunk Configuration](screenshots/Trunk_Configuration.png)
-![Ping Testing](screenshots/VLAN_Testing.png)
-![Parking VLAN](screenshots/Parking_VLAN.png)
+![Topology](Topology.png)
+![VLAN Configuration](VLAN_Configuration.png)
+![Trunk Configuration](Trunk_Configuration.png)
+![Ping Testing](VLAN_Testing.png)
+![Parking VLAN](Parking_VLAN.png)
