@@ -6,7 +6,7 @@ It includes configuration of **access ports, trunk ports, and VLAN isolation tes
 
 [Topology](Topology.PNG)
 [Trunk Configuration](Trunk_Configuration.PNG)
-[Ping Testing](VLAN_Testing.png)
+[Ping Testing](VLAN_Testing.PNG)
 
 
 
