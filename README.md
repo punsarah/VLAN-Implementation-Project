@@ -67,7 +67,6 @@ exit
 show vlan brief
 write memory
 
-## Screenshots
 ![Topology](Topology.png)
 ![VLAN Configuration](VLAN_Configuration.png)
 ![Trunk Configuration](Trunk_Configuration.png)
