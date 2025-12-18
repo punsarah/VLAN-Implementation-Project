@@ -4,9 +4,9 @@
 This project demonstrates the implementation of VLANs (Virtual Local Area Networks) using **Cisco Packet Tracer**.  
 It includes configuration of **access ports, trunk ports, and VLAN isolation testing** across multiple departments in a simulated network.
 
-![Topology](Topology.PNG)
-![Trunk Configuration](Trunk_Configuration.PNG)
-![Ping Testing](VLAN_Testing.png)
+[Topology](Topology.PNG)
+[Trunk Configuration](Trunk_Configuration.PNG)
+[Ping Testing](VLAN_Testing.png)
 
 
 
